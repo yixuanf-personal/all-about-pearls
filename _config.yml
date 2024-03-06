@@ -1,6 +1,6 @@
 # Site
-name: 'ALL About Pearls'
-description: 'ALL About Pearls is a blog about pearls'
+name: 'All About Pearls'
+description: 'All About Pearls is a blog about pearls'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/all-about-pearls'
